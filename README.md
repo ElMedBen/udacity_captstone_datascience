@@ -55,7 +55,7 @@ Here is the schema and explanation of each variable in the files:
 To run the project app and pipeline scripts, the user needs to intall the folowing items : 
 
 * **Python 3.6x**
-* **Libraries: NumPy, SciPy, Pandas, Sciki-Learn, seaborn, matplotlib, stats, statsmodels **
+* **Libraries: NumPy, SciPy, Pandas, Sciki-Learn, seaborn, matplotlib, stats, statsmodels**
 
 ### How to:
 
