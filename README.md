@@ -74,6 +74,9 @@ To run the project app and pipeline scripts, the user needs to intall the folowi
 │  └─ transcript.json : records for transactions, offers received, offers viewed, and offers completed
 └─ README.md
 ```
+## Medium page
+[Medium page link](https://medium.com/@medi.account/44e5c43060ff)
+
 ## Author
 [El Mehdi Benammi](https://github.com/ElMedBen)
 
