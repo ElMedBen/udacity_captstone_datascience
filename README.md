@@ -77,8 +77,7 @@ To run the project app and pipeline scripts, the user needs to intall the folowi
 ## Medium page
 [Medium page link](https://medium.com/@medi.account/44e5c43060ff)
 
-## Author
-[El Mehdi Benammi](https://github.com/ElMedBen)
+
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
